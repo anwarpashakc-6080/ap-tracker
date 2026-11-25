@@ -1,2 +1,2 @@
 # ap-tracker
-expense tracker
+AP expense tracker
